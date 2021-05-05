@@ -1,0 +1,20 @@
+{
+  "name": "node-mssql",
+  "version": "0.0.1",
+  "description": "belajara connection mssql",
+  "main": "index.js",
+  "scripts": {
+    "connect": "node index.js"
+  },
+  "keywords": [
+    "mssql",
+    "node"
+  ],
+  "author": "mauldoto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^6.3.1",
+    "tedious": "^11.0.8"
+  }
+}
